@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\bin\Debug\net7.0\MapaDeClases.exe
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\bin\Debug\net7.0\MapaDeClases.deps.json
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\bin\Debug\net7.0\MapaDeClases.runtimeconfig.json
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\bin\Debug\net7.0\MapaDeClases.dll
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\bin\Debug\net7.0\MapaDeClases.pdb
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.dll
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\refint\MapaDeClases.dll
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.pdb
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\MapaDeClases.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MapaDeClases\MapaDeClases\obj\Debug\net7.0\ref\MapaDeClases.dll
